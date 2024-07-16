@@ -1,7 +1,6 @@
 #| Folders |#
 
 .github
-node_modules
 SakuraBotSession
 tmp
 jadibts
